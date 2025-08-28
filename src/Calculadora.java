@@ -5,6 +5,6 @@ public class Calculadora {
 
     public class Calculadora {
         public static int subtraia(int a, int b) {
-        return a +b;
+        return a + b;
         }
 }
