@@ -3,7 +3,8 @@ public class Calculadora {
         return a + b;
     }
 
-    public static int subtraia(int a, int b) {
-        return a - b;
-    }
+    public class Calculadora {
+        public static int subtraia(int a, int b) {
+        return a +b;
+        }
 }
